@@ -1,0 +1,5 @@
+key,en
+MOD_XY_B2FLEE_NAME, Cancel to Flee
+ERROR_MISSING_DEPENDENCY_NAME,Error in loaded mods
+ERROR_MISSING_DEPENDENCY_DESCRIPTION,"Loaded mods require Mod Utils to function, which is not currently installed.\n\nCheck your mod dependencies carefully."
+UI_SETTINGS_XY_B2FLEE_MOD,Enable/Disable Cancel to Flee Mod.
